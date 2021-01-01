@@ -9,3 +9,8 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 
 ## Prerequisites
 In order to test the code you need python3 with the numpy and pygame packages installed.
+
+##Running the program 
+Open a terminal, position yourself on the desired folder and run the command:
+$ python3 file_name.py 
+Immediately a GUI will be launched. You will be able to run the animation by mouse clicking (pieces are moved when a mouse click is done).    
