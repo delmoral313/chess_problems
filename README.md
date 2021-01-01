@@ -17,4 +17,7 @@ Open a terminal, position yourself on the desired folder and run the command:
 $ python3 file_name.py 
 
 
-Immediately a GUI will be launched. You will be able to run the animation by mouse clicking (pieces are moved when a mouse click is done).    
+Immediately a GUI will be launched. You will be able to run the animation by mouse clicking (pieces are moved when a mouse click is done).  
+
+## Foot note
+The chessboard GUI source code was downloaded from https://uniformlyuninformative.wordpress.com/projects/python-chess/ and was adapted to my needs.  
